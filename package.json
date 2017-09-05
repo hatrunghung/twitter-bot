@@ -1,0 +1,15 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "Node js twitter bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ha Trung Hung",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.7.1",
+    "twitter-screen-name": "^1.0.0"
+  }
+}
